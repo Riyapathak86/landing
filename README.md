@@ -3,7 +3,7 @@ Landing Page
 A simple and responsive landing page built with React and Bootstrap.
 
 Live Demo
-https://vercel.com/riya-pathaks-projects/landing
+https://landing-nine-pi-92.vercel.app
 You can view the live demo of the landing page here:
 Live Demo
 
